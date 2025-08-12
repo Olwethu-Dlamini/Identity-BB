@@ -1,77 +1,277 @@
 [
     {
-        "region": "Manzini",
-        "tinkhundla": [
-            {"name": "Kukhanyeni"},
-            {"name": "Mtfongwaneni"},
-            {"name": "Mahlangatja"},
-            {"name": "Mangcongco"},
-            {"name": "Ludzeludze"},
-            {"name": "Emkhiweni"},
-            {"name": "Lobamba Lomdzala"},
-            {"name": "Ntondozi"},
-            {"name": "Lamgabhi"},
-            {"name": "Mafutseni"},
-            {"name": "Nhlambeni"},
-            {"name": "Ngwempisi"},
-            {"name": "Mhlambanyatsi"},
-            {"name": "Manzini North"},
-            {"name": "Manzini South"},
-            {"name": "Kwaluseni"}
-        ]
+        "name": "Kukhanyeni",
+        "chief_code": "",
+        "region": "Manzini"
     },
     {
-        "region": "Shiselweni",
-        "tinkhundla": [
-            {"name": "Sigwe"},
-            {"name": "Ngudzeni"},
-            {"name": "Khubuta"},
-            {"name": "Mtsambama"},
-            {"name": "Gege"},
-            {"name": "Shiselweni II"},
-            {"name": "Sandleni"},
-            {"name": "Hosea"},
-            {"name": "Zombodze"},
-            {"name": "Shiselweni I"},
-            {"name": "Nkwene"},
-            {"name": "Maseyisini"},
-            {"name": "Matsanjeni"},
-            {"name": "Somntongo"}
-        ]
+        "name": "Mtfongwaneni",
+        "chief_code": "",
+        "region": "Manzini"
     },
     {
-        "region": "Lubombo",
-        "tinkhundla": [
-            {"name": "Sithobela"},
-            {"name": "Mpholonjeni"},
-            {"name": "Siphofaneni"},
-            {"name": "Nkilongo"},
-            {"name": "Matsanjeni North"},
-            {"name": "Dvokodvweni"},
-            {"name": "Lubuli"},
-            {"name": "Hlane"},
-            {"name": "Lomahasha"},
-            {"name": "Mhlume"},
-            {"name": "Lugongolweni"}
-        ]
+        "name": "Mahlangatja",
+        "chief_code": "",
+        "region": "Manzini"
     },
     {
-        "region": "Hhohho",
-        "tinkhundla": [
-            {"name": "Timphisini"},
-            {"name": "Ndzingeni"},
-            {"name": "Mhlangatane"},
-            {"name": "Ntfonjeni"},
-            {"name": "Pigg’s Peak"},
-            {"name": "Madlangampisi"},
-            {"name": "Lobamba"},
-            {"name": "Mbabane West"},
-            {"name": "Mbabane East"},
-            {"name": "Hhukwini"},
-            {"name": "Maphalaleni"},
-            {"name": "Motshane"},
-            {"name": "Nkhaba"},
-            {"name": "Mayiwane"}
-        ]
+        "name": "Mangcongco",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Ludzeludze",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Emkhiweni",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Lobamba Lomdzala",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Ntondozi",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Lamgabhi",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Mafutseni",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Nhlambeni",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Ngwempisi",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Mhlambanyatsi",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Manzini North",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Manzini South",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Kwaluseni",
+        "chief_code": "",
+        "region": "Manzini"
+    },
+    {
+        "name": "Sigwe",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Ngudzeni",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Khubuta",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Mtsambama",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Gege",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Shiselweni II",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Sandleni",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Hosea",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Zombodze",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Shiselweni I",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Nkwene",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Maseyisini",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Matsanjeni",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Somntongo",
+        "chief_code": "",
+        "region": "Shiselweni"
+    },
+    {
+        "name": "Sithobela",
+        "chief_code": "",
+        "region": "Lubombo"
+    },
+    {
+        "name": "Mpholonjeni",
+        "chief_code": "",
+        "region": "Lubombo"
+    },
+    {
+        "name": "Siphofaneni",
+        "chief_code": "",
+        "region": "Lubombo"
+    },
+    {
+        "name": "Nkilongo",
+        "chief_code": "",
+        "region": "Lubombo"
+    },
+    {
+        "name": "Matsanjeni North",
+        "chief_code": "",
+        "region": "Lubombo"
+    },
+    {
+        "name": "Dvokodvweni",
+        "chief_code": "",
+        "region": "Lubombo"
+    },
+    {
+        "name": "Lubuli",
+        "chief_code": "",
+        "region": "Lubombo"
+    },
+    {
+        "name": "Hlane",
+        "chief_code": "",
+        "region": "Lubombo"
+    },
+    {
+        "name": "Lomahasha",
+        "chief_code": "",
+        "region": "Lubombo"
+    },
+    {
+        "name": "Mhlume",
+        "chief_code": "",
+        "region": "Lubombo"
+    },
+    {
+        "name": "Lugongolweni",
+        "chief_code": "",
+        "region": "Lubombo"
+    },
+    {
+        "name": "Timphisini",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Ndzingeni",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Mhlangatane",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Ntfonjeni",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Pigg’s Peak",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Madlangampisi",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Lobamba",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Mbabane West",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Mbabane East",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Hhukwini",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Maphalaleni",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Motshane",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Nkhaba",
+        "chief_code": "",
+        "region": "Hhohho"
+    },
+    {
+        "name": "Mayiwane",
+        "chief_code": "",
+        "region": "Hhohho"
     }
 ]
